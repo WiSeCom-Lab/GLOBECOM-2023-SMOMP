@@ -1,5 +1,6 @@
 # Paper code
-Code to run the simulations and create the figures for the ICASSP paper "Separable multidimensional orthogonal matching pursuit and its application to joint localization and communication at mmWave"
+Code to run the simulations and create the figures for the paper "Separable multidimensional orthogonal matching pursuit and its application to joint localization and communication at mmWave"
+presented at GLOBECOM 2023
 
 # Simulation
 The ray tracing scenario has already been run and the simulated results are saves in the `data/office-walls` folder.
